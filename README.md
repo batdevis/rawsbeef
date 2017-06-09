@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Raws Beef 2017
+## 2nd annual Rawfish BBQ
 
-You can use the [editor on GitHub](https://github.com/batdevis/rawsbeef/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![alt text][flyer]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[flyer]: https://github.com/batdevis/rawsbeef/raw/master/rawsbeef.jpg "2nd Raws Beef"
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batdevis/rawsbeef/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Viene fatta una spesa base di carne, verdura, beveraggi, qualche stuzzichino.
+* La spesa si dividerà, veranno 10/15 euro a persona.
+* Chi vuole preparare qualcos'altro tipo un primo, un contorno o una torta oppure portare altri beveraggi o stuzzichini è benvenuto.
+ 
+* Vestitevi comodi, siamo in un parco. So già che c'è chi sfoggerà il suo cappello migliore.
+* Portate pure un telo per ponarvi sull'erba dopo mangiato.
+* L'orario è mezzogiorno. Chiunque voglia arrivare prima per dare una mano a preparare è benvenuto.
+* Il capo grigliatore ufficiale è Alessandro Canal.
+ 
+* Impostate i vostri navigatori su **Agriturismo Le Rondini, Limena**.
+* Una volta arrivati alla stradina dell'agriturismo, proseguite sulla strada principale per 100 m, parcheggiate al parcheggio dei camper, entrate a piedi dalla stradina prima del parcheggio.
