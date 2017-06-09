@@ -1,9 +1,7 @@
 # Raws Beef 2017
 ## 2nd annual Rawfish BBQ
 
-<center>
 ![bbq flyer](https://github.com/batdevis/rawsbeef/raw/master/rawsbeef.jpg)
-</center>
 
 * Viene fatta una spesa base di carne, verdura, beveraggi, qualche stuzzichino.
 * La spesa si dividerà, veranno 10/15 euro a persona.
