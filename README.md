@@ -1,7 +1,7 @@
 # Raws Beef 2017
 ## 2nd annual Rawfish BBQ
 
-<p align="center">
+<p style="text-align: center;">
 ![bbq flyer](https://github.com/batdevis/rawsbeef/raw/master/rawsbeef.jpg)
 </p>
 
