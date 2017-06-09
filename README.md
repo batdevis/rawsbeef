@@ -1,7 +1,7 @@
 # Raws Beef 2017
 ## 2nd annual Rawfish BBQ
 
-![bbq flyer](https://github.com/batdevis/rawsbeef/raw/master/rawsbeef.jpg)(https://github.com/batdevis/rawsbeef/raw/master/rawsbeef.jpg)
+![bbq flyer](https://github.com/batdevis/rawsbeef/raw/master/rawsbeef.jpg)
 
 * Viene fatta una spesa base di carne, verdura, beveraggi, qualche stuzzichino.
 * La spesa si dividerà, veranno 10/15 euro a persona.
@@ -15,4 +15,4 @@
 * Impostate i vostri navigatori su **Agriturismo Le Rondini, Limena**.
 * Una volta arrivati alla stradina dell'agriturismo, proseguite sulla strada principale per 100 m, parcheggiate al parcheggio dei camper, entrate a piedi dalla stradina prima del parcheggio.
 
-![park and walk](https://github.com/batdevis/rawsbeef/raw/master/agripath.png)(https://github.com/batdevis/rawsbeef/raw/master/agripath.png)
+![park and walk](https://github.com/batdevis/rawsbeef/raw/master/agripath.png)
